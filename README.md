@@ -67,3 +67,9 @@ node jira.cjs close PROJ-42 "Fixed in v1.2.3"
 # Link two tickets
 node jira.cjs link PROJ-42 "is blocked by" PROJ-38
 ```
+
+# Further Reading
+
+Read more about why I created this tool over on my blog:
+
+[Holy Burning Tokens, Batman! or how Atlassian’s Rovio MCP eats tokens for breakfast.](https://automatica.com.au/2026/06/holy-burning-tokens-batman-or-how-atlassians-rovio-mcp-eats-tokens-for-breakfast/)
